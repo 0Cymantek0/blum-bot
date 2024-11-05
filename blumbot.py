@@ -122,4 +122,27 @@ else:
                     click(screen_x + 4, screen_y)
                     time.sleep(0.001)
                     pixel_found = True
+                    
+                elif (r == 247) and (g == 123) and (b == 90):
+                    screen_x = window_rect[0] + x
+                    screen_y = window_rect[1] + y
+                    click(screen_x + 4, screen_y)
+                    time.sleep(0.001)
+                    pixel_found = True
+                    
+                elif (r == 232) and (g == 170) and (b == 134):
+                    screen_x = window_rect[0] + x
+                    screen_y = window_rect[1] + y
+                    click(screen_x + 4, screen_y)
+                    time.sleep(0.001)
+                    pixel_found = True
+                
+                elif (r in range(200, 255)) and (g in range(150, 200)) and (b in range(100, 150)):
+                    screen_x = window_rect[0] + x
+                    screen_y = window_rect[1] + y
+                    click(screen_x + 4, screen_y)
+                    time.sleep(0.001)
+                    pixel_found = True
+
+                if pixel_found:
                     break
