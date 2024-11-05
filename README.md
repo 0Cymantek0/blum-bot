@@ -80,7 +80,7 @@ Contributions are welcome! Here's how you can contribute:
 2. **Clone your forked repository**
 
     ```sh
-    git clone https://github.com/0cymantek0/blum-bot.git
+    git clone https://github.com/0Cymantek0/blum-bot.git
     cd blum-bot
     ```
 
