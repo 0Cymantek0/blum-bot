@@ -6,7 +6,7 @@
 
 # Blum Auto Clicker
 
-Welcome to the blum-bot repository, this repo is created to provide a tool or program to click BLUM crypto game automatically. Thanks to DarkSkull777 for the main project.
+Welcome to the blum-bot repository, this repo is created to provide a tool or program to click BLUM crypto game automatically. Thanks to DarkSkull777 for the main project. Make sure to join his telegram channel : https://t.me/bravexploiter
 
 ## FeaturesSk
 
@@ -129,13 +129,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Download](#Download)
+1. [UPDATE] (#UPDATE)
+2. [Features](#features)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [Contact](#contact)
 
 </details>
