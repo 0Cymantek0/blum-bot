@@ -1,8 +1,14 @@
+# UPDATE :
+
+- New face Clicker working
+- Introduced a little randomness to avoid detection.
+
+
 # Blum Auto Clicker
 
-Welcome to the blum-bot repository, this repo is created to provide a tool or program to click BLUM crypto game automatically.
+Welcome to the blum-bot repository, this repo is created to provide a tool or program to click BLUM crypto game automatically. Thanks to DarkSkull777 for the main project.
 
-## Features
+## FeaturesSk
 
 - Automates the Blum Crypto game on Telegram.
 - Uses the `termcolor`,`pynput`, `pyautogui`, `pygetwindow` and `keyboard` modules for interaction.
@@ -26,7 +32,7 @@ Make sure you have Python installed on your system. You can download it from the
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
+    git clone https://github.com/0Cymantek0/blum-bot.git
     cd blum-bot
     ```
 
@@ -45,7 +51,9 @@ Make sure you have Python installed on your system. You can download it from the
 
 3. **Run the script**
 
-    Execute the `blumbot.py` script:
+   Execute the `start.bat` script:
+    
+   Execute the `blumbot.py` script:
 
     ```sh
     python blumbot.py
@@ -56,14 +64,6 @@ Make sure you have Python installed on your system. You can download it from the
     ```sh
     python blumv2.py
     ```
-## Download
-
-If you prefer a standalone executable version of Blum Bot that does not require installing Python or any dependencies, you can download `.exe application` from the below:
-
-<a href="https://t.me/bravexploiter/13327">
-    <img src="https://raw.githubusercontent.com/DarkSkull777/blum-bot/main/images/images%20(4)-fotor-bg-remover-202406222099-picsay.png" alt="Download" width="168">
-</a>
-
 
 ## Usage
 
@@ -80,7 +80,7 @@ Contributions are welcome! Here's how you can contribute:
 2. **Clone your forked repository**
 
     ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
+    git clone https://github.com/0cymantek0/blum-bot.git
     cd blum-bot
     ```
 
@@ -119,11 +119,6 @@ If you have any suggestions or improvements, feel free to open an issue. If you 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or support, please open an issue or contact the repository owner on [<span style="font-size:1.5em;">Telegram</span>](https://t.me/XSkull7).
-
----
 
 **Enjoying!**
 
