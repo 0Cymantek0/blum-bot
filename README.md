@@ -51,7 +51,9 @@ Make sure you have Python installed on your system. You can download it from the
 
 3. **Run the script**
 
-   Execute the `start.bat` script:
+   Execute the `start.bat` script
+
+   Or,
     
    Execute the `blumbot.py` script:
 
